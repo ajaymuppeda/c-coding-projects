@@ -14,3 +14,13 @@
 - There are two types of deletion:
     - Deletion by value: The node with the specified value is removed.
     - Deletion by position: The node at the specified position is removed.
+
+## Reverse
+
+- Reverse involves reversing the order of the nodes in the list.
+- The list is traversed from the beginning to the end, and each node's next pointer is updated to point to the previous node.  
+
+## Length
+
+- Length involves calculating the number of nodes in the list.
+- The list is traversed from the beginning to the end, and a counter is incremented for each node.
